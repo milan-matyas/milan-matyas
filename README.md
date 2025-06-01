@@ -13,7 +13,7 @@ Feel free to move around and use what you find.
   [**Giesecke & Devrient**](https://www.gi-de.com/en/)
 - nowadays re-inventing my passion for programming at
   [**Digitance**](https://digitance.ai/)
-- mostly interested in GNU/Linux and best practice in software development
+- mostly interested in python3
 
 ## Top achievements
 
