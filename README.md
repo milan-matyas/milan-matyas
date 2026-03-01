@@ -15,28 +15,9 @@ Feel free to move around and use what you find.
   [**Digitance**](https://digitance.ai/)
 - mostly interested in python3
 
-## Top achievements
-
-- Father of 2 best girls in the world 🦜🦜
-- Got best wife on the planet 💏
-
 ## Proficient at
 
 - Python3 🐍
 - Bash
 - Git
 - Jenkins
-
-## Desktop environment
-
-### Home
-
-🏡 Debian 12 Bookworm
-
-### Job
-
-🏢 Windows 10
-
-## Looking for
-
-- interesting GNU project written mostly in Python3
